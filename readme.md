@@ -2,12 +2,11 @@
 
 An elegant and dynamic animated graphical gauge meter built with jQuery. GaugeMeter.js is highly customizable and includes full-radial, semi-radial &amp; arch dials.
 
-![GaugeMeter.js jQuery Plugin by Ash Alom](http://ashalom.com/developer/js/GaugeMeter/ScreenShot@640.png)
+[![GaugeMeter.js jQuery Plugin by Ash Alom](http://ashalom.com/developer/js/GaugeMeter/ScreenShot@640.png)](http://ashalom.github.io/GaugeMeter)
 
-**REPO:** https://github.com/AshAlom/GaugeMeter
+> **DEMO:** http://ashalom.github.io/GaugeMeter
 
-**DEMO:** http://ashalom.github.io/GaugeMeter
-
+> **REPO:** https://github.com/AshAlom/GaugeMeter
 
 Copyright AshAlom.com 2011. All rights Reserved.
 
